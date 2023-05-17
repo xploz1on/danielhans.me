@@ -20,7 +20,9 @@
   <a href="https://github.com/zeon-studio/astroplate/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/zeon-studio/astroplate" alt="contributors"></a>
 </p>
-
+<p align=center>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4f8c5aa5-547b-424b-8300-3d4ac9c6b9b9/deploy-status)](https://app.netlify.com/sites/danielhans/deploys)
+</p>
 ## 📌 Key Features
 
 - 👥 Multi-Authors
